@@ -42,3 +42,9 @@ The dataset contains student attributes such as demographics, study habits, fami
 - Residuals from the regression are approximately **normally distributed**, satisfying an important assumption.
 - The **Breusch-Pagan test indicates heteroscedasticity** (non-constant variance of residuals), suggesting potential issues with error variance that may require robust standard errors or model adjustments.
 
+---
+
+## 👤 Author
+
+Rudolph Haink  
+[LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
